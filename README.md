@@ -45,7 +45,7 @@ I am actively seeking **Software Development / AI-focused internship opportuniti
 
 ---
 
-### 🔹 **AI Website Generator **
+### 🔹 AI Website Generator
 **Tech:** Next.js, TypeScript, Tailwind CSS, AI APIs  
 - Built an AI-powered platform that **generates complete websites from text prompts**  
 - Implemented **prompt-to-code workflows** using AI APIs  
