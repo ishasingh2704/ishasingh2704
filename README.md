@@ -45,7 +45,7 @@ I am actively seeking **Software Development / AI-focused internship opportuniti
 
 ---
 
-### 🔹 **AI Website Generator**
+### 🔹 **AI Website Generator **
 **Tech:** Next.js, TypeScript, Tailwind CSS, AI APIs  
 - Built an AI-powered platform that **generates complete websites from text prompts**  
 - Implemented **prompt-to-code workflows** using AI APIs  
@@ -56,7 +56,7 @@ I am actively seeking **Software Development / AI-focused internship opportuniti
 ---
 
 ### 🔹 **AI Nutrition Coach (Agent-Based Automation)**
-**Tech:** n8n, AI Agents, WhatsApp Automation  
+**Tech:** n8n, AI Agents, Telegram Automation  
 - Developed a **no-code AI agent** for personalized nutrition guidance  
 - Implemented **agent-based workflows** for intelligent decision-making  
 - Deployed via **WhatsApp**, demonstrating real-world AI automation  
