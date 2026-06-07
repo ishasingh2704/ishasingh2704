@@ -14,7 +14,7 @@
 
 ## 💫 About Me
 
-I am a **3rd-year B.Tech Computer Science undergraduate** at **Jaypee Institute of Information Technology, Sector-62, Noida**, with strong interests in **Software Development, Generative AI, Machine Learning, NLP, and Computer Vision**.
+I am a **4th-year B.Tech Computer Science undergraduate** at **Jaypee Institute of Information Technology, Sector-62, Noida**, with strong interests in **Software Development, Generative AI, Machine Learning, NLP, and Computer Vision**.
 
 I enjoy building **real-world, end-to-end systems** — from backend APIs and intelligent AI workflows to deployment, monitoring, and system reliability. My recent work focuses on **RAG systems, LLM applications, Prompt Engineering, AI-powered document generation, semantic search, agentic workflows, and computer vision applications using OpenCV and deep learning frameworks**.
 
